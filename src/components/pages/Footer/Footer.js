@@ -95,7 +95,7 @@ function Footer() {
               <FaInstagram />
             </Link>
             <Link
-              to="//www.youtube.com/subscriptions"
+              to="//www.youtube.com/feed/subscriptions"
               target="_blank"
               aria-label="YouTube"
               className="social-icon-link"
