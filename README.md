@@ -1,4 +1,4 @@
-# jolly-sammet-af2232.netlify.app/
+# https://jolly-sammet-af2232.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
